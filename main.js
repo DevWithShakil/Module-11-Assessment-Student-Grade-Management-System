@@ -74,7 +74,12 @@ const calculateTotalAndAverage = () => {
 
 // Example Run
 
-
+// Adding Students
+addStudent("Rahim", 85);
+addStudent("Karim", 72);
+addStudent("Rafiq", 39);
+addStudent("Sakib", 55);
+addStudent("Jamil", 90);
 
 // Show All Students
 displayStudents();
